@@ -1,0 +1,2 @@
+use `sudo npm install react-redux-firebase --legacy-peer-deps` to install
+conflicting dependencies.
